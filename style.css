@@ -1,0 +1,82 @@
+h1{
+    margin-top: 30px;
+    
+    
+   text-align: center;
+   font-size: 40pt;
+    
+}
+div{
+    text-align: center;
+    
+}
+#inpText{
+    text-align: center;
+    width: 800px;
+    height: 30px;
+    font-size: 1.5em;
+    padding: 5px;
+}
+.btn{
+    margin: 30px;
+    /* margin-right: 30px; */
+    padding: 10px;
+    width: 150px;
+}
+#btnAdd{
+    background-color: rgb(228, 0, 46);
+    font-size: 15px;
+    color: white;
+}
+#btnAdd:active{
+    background-color: rgb(7, 22, 224);
+    font-size: 15px;
+    color: white;
+}
+
+#btnCancel{
+    background-color:darkgreen;
+    font-size: 15px;
+    color: white;
+}
+#btnCancel:active{
+    background-color:rgb(7, 22, 224);
+    font-size: 15px;
+    color: white;
+}
+#btnSort{
+    background-color: rgb(3, 53, 146);
+    font-size: 15px;
+    color: white;
+}
+#btnSort:active{
+    background-color: rgb(181, 182, 194);
+    font-size: 15px;
+    color: white;
+}
+#btnDelete{
+    background-color: rgb(245, 241, 11);
+    font-size: 15px;
+    color: black;
+}
+#btnDelete:active{
+    background-color: rgb(204, 205, 211);
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+
+
+ul{
+   font-size: 20pt;
+   /* break-after: line; */
+}
+li{
+   
+    
+    /* text-align: center; */
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 50px;
+    
+   
+}
